@@ -1,6 +1,6 @@
 🌊 **Welcome to the AISviz project!**
 
-We are a research initiative conducted by [MERIDIAN](https://meridian.cs.dal.ca) (Marine Environmental Research Infrastructure for Data Integration and Application Network) at *Dalhousie University* and the Department of Fisheries and Oceans (DFO) of the *Government of Canada*. This project aims to facilitate using Automatic Identification System (AIS) data for marine vessel tracking to enhance our understanding of global maritime traffic and the impacts of vessel activity on marine ecosystems.
+We are a research initiative conducted by [MERIDIAN](https://meridian.cs.dal.ca) (Marine Environmental Research Infrastructure for Data Integration and Application Network) at *Dalhousie University* and funded by the Department of Fisheries and Oceans (DFO) of the *Government of Canada*. This project aims to facilitate using Automatic Identification System (AIS) data for marine vessel tracking to enhance our understanding of global maritime traffic and the impacts of vessel activity on marine ecosystems.
 
 ## ⛴️ Goals
 
