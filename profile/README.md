@@ -18,7 +18,7 @@ Through AISviz, we aim to open new pathways of research and policy-making strate
 
 This project was born out of active collaboration, and we're ready to widen our circle. Regardless of your offering or background - whether you are a seasoned researcher, a programmer interested in AIS data, an organization focusing on marine conservation, or an eager learner fascinated by ocean sciences – our project welcomes you! Feel free to connect with us. We're always ready to answer your questions, consider your suggestions, and engage in discussions regarding AIS data.
 
-## ⚓ Academic Contributions
+## ⚓ Academic Results
 
 - Spadon, G., Kumar, J., Smith, M., Vela, S., Gehrmann, R., Eden, D., van Berkel, J., Soares, A., Fablet, R., Pelot, R., & Matwin, S. (2023). Building a Safer Maritime Environment Through Multi-Path Long-Term Vessel Trajectory Forecasting. arXiv preprint arXiv:2310.18948. https://doi.org/10.48550/arXiv.2310.18948
 
