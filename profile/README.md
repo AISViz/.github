@@ -1,19 +1,28 @@
-# 🌊 Welcome to the AISviz project! ⛴️
+# AISViz
 
-We are a research initiative from [MERIDIAN](https://meridian.cs.dal.ca) (Marine Environmental Research Infrastructure for Data Integration and Application Network) hosted on [MAPS](https://mapslab.tech/) (Modeling and Analytics on Predictive Systems) group at *Dalhousie University* and funded by the [Department of Fisheries and Oceans](https://www.canada.ca/en/fisheries-oceans/news/2023/06/funded-projects-for-the-oceans-management-contribution-program.html) (DFO) of the *Government of Canada*. This project aims to facilitate using [Automatic Identification System](https://en.wikipedia.org/wiki/Automatic_identification_system) (AIS) data for marine vessel tracking to enhance our understanding of global maritime traffic and the impacts of vessel activity on marine ecosystems.
+AISViz builds open-source tools that make maritime informatics accessible to everyone, from storing and querying [Automatic Identification System](https://en.wikipedia.org/wiki/Automatic_identification_system) (AIS) vessel-tracking data to analyzing and modeling it. The project is developed and maintained by the [MAPS Lab](https://mapslab.tech/) (Modeling and Analytics for Predictive Systems) at Dalhousie University, and is funded by the [Department of Fisheries and Oceans](https://www.canada.ca/en/fisheries-oceans/news/2023/06/funded-projects-for-the-oceans-management-contribution-program.html) of the Government of Canada. AISViz traces its roots to [MERIDIAN](https://meridian.cs.dal.ca), where the first generation of these tools was built.
 
-## 💡 Goals
+Our goal is a complete, easy-to-use toolbox for raw AIS data extraction, processing, visualization, and vessel modeling. The audience spans government bodies and policymakers, university researchers, NGOs, coastal communities, and the general public. Everything we build is open, so anyone can inspect, reproduce, and extend our work.
 
-Our main objective is to build an easy-to-use open-source toolbox for raw AIS data extraction, processing, visualization, and vessel modeling. We aim to make AIS data accessible and comprehensible for a broad spectrum of users, from government bodies and policymakers to university researchers, non-government organizations (NGOs), coastal communities, and the general public.
+## Projects
 
-## 💻 Technicalities
+- [AISdb](https://github.com/AISViz/AISdb) is the core platform, a Python package with a Rust decoding engine for storing, querying, cleaning, and visualizing AIS data in SQLite or PostgreSQL, published on [PyPI](https://pypi.org/project/aisdb/).
+- [AISdb-lite](https://github.com/AISViz/AISdb-lite) is a lightweight AISdb variant that ingests everything into TimescaleDB hypertables with PostGIS geometry for large-scale spatio-temporal analysis.
+- [NOAA-Integrator](https://github.com/AISViz/NOAA-Integrator) acquires AIS archives from NOAA Marine Cadastre, covering every published format since 2009, and loads them into AISdb-aligned databases.
+- [Tutorials](https://github.com/AISViz/Tutorials) holds the hands-on Jupyter notebooks behind our documentation, from database loading through track interpolation to bathymetry.
+- [GitBook](https://github.com/AISViz/GitBook) is the source of our published documentation and tutorials.
+- [aisviz.github.io](https://github.com/AISViz/aisviz.github.io) is the project website, deployed to [aisviz.cs.dal.ca](https://aisviz.cs.dal.ca/).
 
-AISviz was proposed to implement machine learning applications that work seamlessly with flexible data sources from terrestrial and satellite streams of AIS data. Besides, we intend to make the interaction with AIS data user-friendly, which will be achieved by developing a graphical user interface (GUI). This approach will simplify data retrieval, integration, and basic manipulation processes. We also aim to enhance AIS data's applicability by integrating it with different maritime raster-based third-party data sources. The project and all its components will be made openly accessible, promoting collaboration, transparency, and public contribution.
+## Documentation
 
-## 🚀 Contributions
+[Docs](https://aisviz.gitbook.io/documentation/) · [Tutorials](https://aisviz.gitbook.io/tutorials/) · [API reference](https://aisviz.cs.dal.ca/AISdb/) · [Website](https://aisviz.cs.dal.ca/)
 
-Through AISviz, we aim to open new pathways of research and policy-making strategies related to environmental preservation, vessel traffic optimization, illegal fishing detection, aquatic invasive species prevention, noise pollution monitoring, and much more. Moreover, AISviz would equip anyone interested in understanding the patterns and impacts of vessel movement with the necessary tools and knowledge to do so. Even if you're just an enthusiast, educator, student, or concerned citizen, AISviz can help you grasp the crucial role of vessel traffic in shaping our world's oceans.
+The documentation covers installation, database setup, receiver hardware, and step-by-step analysis workflows. The API reference describes the full AISdb programming interface.
 
-## 👥 Collaborations
+## Research applications
 
-This project was born out of active collaboration, and we're ready to widen our circle. Regardless of your offering or background - whether you are a seasoned researcher, a programmer interested in AIS data, an organization focusing on marine conservation, or an eager learner fascinated by ocean sciences – our project welcomes you! Feel free to connect with us. We're always ready to answer your questions, consider your suggestions, and engage in discussions regarding AIS data.
+AISViz supports research and policy work on environmental preservation, vessel traffic optimization, illegal fishing detection, aquatic invasive species prevention, and underwater noise monitoring. The same tools serve educators, students, and anyone curious about how vessel traffic shapes the oceans.
+
+## Get involved
+
+The project grew out of collaboration and stays open to it. Whether you are a researcher, a programmer interested in AIS data, an organization focused on marine conservation, or a learner drawn to ocean sciences, we welcome questions, suggestions, and contributions. Organization-wide contributing and security guidelines live in the [.github](https://github.com/AISViz/.github) repository, and you can reach the team at aisviz@dal.ca.
