@@ -1,6 +1,6 @@
-# Contributing to AISViz
+# Contributing to MAPS Lab
 
-We appreciate your interest in contributing to the AISViz organization. This document outlines how you can contribute to our projects, including AISdb, and what you can expect during the process. It applies to every repository in the organization unless a repository provides its own contributing guide.
+We appreciate your interest in contributing to the MAPS Lab organization. This document outlines how you can contribute to our projects, including AISdb, and what you can expect during the process. It applies to every repository in the organization unless a repository provides its own contributing guide.
 
 ## Table of Contents
 - [Code of Conduct](#code-of-conduct)
@@ -17,7 +17,7 @@ We appreciate your interest in contributing to the AISViz organization. This doc
 Before contributing, please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expectations for behavior. All participants are required to adhere to the Code of Conduct.
 
 ## Questions and Discussions
-Have a question or want to discuss a topic related to an AISViz project? Please check the [documentation](https://aisviz.gitbook.io/documentation/) and [tutorials](https://aisviz.gitbook.io/tutorials/) first. If your question remains unanswered, feel free to open an issue on the relevant repository to start a discussion, or reach us at aisviz@dal.ca.
+Have a question or want to discuss a topic related to a MAPS Lab project? Please check the [documentation](https://aisviz.gitbook.io/documentation/) and [tutorials](https://aisviz.gitbook.io/tutorials/) first. If your question remains unanswered, feel free to open an issue on the relevant repository to start a discussion, or reach us at mapslab@dal.ca.
 
 ## How to Contribute
 You can contribute in many ways, such as improving documentation, submitting bug reports, proposing new features, and submitting pull requests with code changes.
@@ -60,11 +60,11 @@ While we don't have a formal style template, we encourage you to keep your contr
 - Keep your code DRY (Don't Repeat Yourself).
 
 ## Community and Support
-Join the AISViz community! Here are some ways you can participate.
+Join the MAPS Lab community! Here are some ways you can participate.
 
 - Star our projects on GitHub.
 - Share our work on social media.
 - Contribute to the conversations in issues.
-- Share your experiences with AISViz tools at meetups or conferences.
+- Share your experiences with MAPS Lab tools at meetups or conferences.
 
-Thank you for your contributions to AISViz!
+Thank you for your contributions to MAPS Lab!
