@@ -33,9 +33,9 @@ See the [documentation](https://aisviz.gitbook.io/documentation/), the [tutorial
 | --- | --- |
 | [CiteForge](https://github.com/MAPS-Lab/CiteForge) | Automated bibliographic data collection and enrichment, with multi-source aggregation and trust-based merging. |
 
-## People and funding
+## Affiliation
 
-MAPS Lab is directed by Gabriel Spadon in the Faculty of Computer Science at Dalhousie University, and collaborates with the Maritime Risk and Safety (MARS) research group. The maritime informatics work is funded by the [Department of Fisheries and Oceans](https://www.canada.ca/en/fisheries-oceans/news/2023/06/funded-projects-for-the-oceans-management-contribution-program.html) of the Government of Canada, and traces its roots to [MERIDIAN](https://meridian.cs.dal.ca), where the first generation of these tools was built.
+MAPS Lab is part of the Faculty of Computer Science at Dalhousie University and collaborates with the Maritime Risk and Safety (MARS) research group. Its maritime informatics work traces its roots to [MERIDIAN](https://meridian.cs.dal.ca), where the first generation of these tools was built.
 
 ## Get involved
 
