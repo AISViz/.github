@@ -2,9 +2,9 @@
 
 Modeling and Analytics for Predictive Systems · Faculty of Computer Science, Dalhousie University
 
-We advance modeling and analytics for predictive systems through research spanning big data, data science, network science, and machine learning. We study complex phenomena that pair heterogeneous data with structure evolving at scale, with an emphasis on data-driven methods for prediction, monitoring, and decision support. Our applied work reaches maritime transportation, ocean mobility forecasting, climate adaptation, and urban intelligence.
+We develop modelling and analytics methods for predictive systems that operate over complex, heterogeneous, and evolving data. Our research connects big data, data science, network science, machine learning, and geospatial intelligence to understand systems where structure, scale, uncertainty, and time shape prediction. Our work advances data-driven methods for forecasting, monitoring, representation learning, and decision support, with applications in maritime transportation, ocean mobility, climate adaptation, urban intelligence, and other large-scale socio-technical and environmental systems.
 
-This organization hosts the lab's open-source software. Everything here is open, so anyone can inspect, reproduce, and build on it.
+This organization hosts the lab’s open-source software, research prototypes, datasets where redistribution is permitted, reproducible experiments, and supporting documentation. The goal is to make our work inspectable, reusable, and extensible, so researchers, students, practitioners, and partners can reproduce results, build on our tools, and contribute to predictive systems research.
 
 ## Research themes
 
@@ -12,9 +12,11 @@ Big Data · Data Science · Network Science · Machine Learning
 
 ## Software
 
-### AISViz (maritime informatics)
+### Maritime Informatics
 
-Open tools that make [Automatic Identification System](https://en.wikipedia.org/wiki/Automatic_identification_system) (AIS) vessel-tracking data accessible to everyone, from storage and querying to analysis and modeling.
+AISViz is an open-source maritime informatics initiative from the [MAPS Lab](https://mapslab.tech/) at [Dalhousie University](https://www.dal.ca/), primarily funded by [Fisheries and Oceans Canada](https://www.dfo-mpo.gc.ca/) through the AISViz project, *Making Vessels Tracking Data and Maps Available to Everyone*. The project builds on previous efforts developed through [MERIDIAN](https://meridian.cs.dal.ca/), the *Marine Environmental Research Infrastructure for Data Integration and Application Network*, a Canadian research infrastructure for underwater acoustic and vessel-tracking data.
+
+AISViz lowers the technical barrier to using [Automatic Identification System](https://en.wikipedia.org/wiki/Automatic_identification_system) vessel-tracking data by turning raw vessel movement records into accessible maps, queries, analyses, and models. Its tools support historical and real-time vessel traffic workflows, including ingestion, cleaning, storage, indexing, spatiotemporal querying, visualization, trajectory analysis, and vessel behaviour modelling. The initiative serves researchers, students, public agencies, policymakers, NGOs, coastal communities, and other users who work with maritime mobility data for safety, conservation, ocean planning, environmental monitoring, vessel impact assessment, and climate-aware transportation studies.
 
 | Project | What it does |
 | --- | --- |
