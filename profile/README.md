@@ -1,8 +1,8 @@
 # MAPS Lab
 
-Modeling and Analytics for Predictive Systems · Faculty of Computer Science, Dalhousie University
+Modelling and Analytics for Predictive Systems · Faculty of Computer Science, Dalhousie University
 
-We develop modelling and analytics methods for predictive systems that operate over complex, heterogeneous, and evolving data. Our research connects big data, data science, network science, machine learning, and geospatial intelligence to understand systems where structure, scale, uncertainty, and time shape prediction. Our work advances data-driven methods for forecasting, monitoring, representation learning, and decision support, with applications in maritime transportation, ocean mobility, climate adaptation, urban intelligence, and other large-scale socio-technical and environmental systems.
+We develop modelling and analytics methods for predictive systems that operate over complex, heterogeneous, and evolving data. Our research connects big data, data science, network science, machine learning, and geospatial intelligence to understand systems where structure, scale, uncertainty, and time shape prediction. Our work advances data-driven methods for forecasting, monitoring, pattern discovery, representation learning, optimization, and decision support, with applications in maritime mobility, climate adaptation, urban and ocean intelligence, and other large-scale socio-technical and environmental systems.
 
 This organization hosts the lab’s open-source software, research prototypes, reproducible experiments, and supporting documentation, with datasets shared whenever licensing and redistribution permit. The goal is to make our work inspectable, reusable, and extensible, so researchers, students, practitioners, and partners can reproduce results, build on our tools, and contribute to predictive systems research.
 
@@ -15,13 +15,11 @@ Our research is organized around four complementary pillars.
 - **Network Science.** Complex network mining and graph-based modelling of interconnected systems, from shipping routes and port networks to spatial interaction structures, including representation learning over graphs.
 - **Machine Learning.** Predictive and multimodal models for forecasting and behaviour modelling, including approaches that fuse vessel tracking with underwater acoustics and other environmental signals.
 
-These pillars converge on applications in maritime transportation and safety, ocean mobility and marine conservation, climate adaptation, and urban intelligence.
-
 ## Software
 
 ### Maritime Informatics
 
-AISViz is an open-source maritime informatics initiative from the [MAPS Lab](https://mapslab.tech/) at [Dalhousie University](https://www.dal.ca/), primarily funded by [Fisheries and Oceans Canada](https://www.dfo-mpo.gc.ca/) through the AISViz project, *Making Vessels Tracking Data and Maps Available to Everyone*. The project builds on previous efforts developed through [MERIDIAN](https://meridian.cs.dal.ca/), the *Marine Environmental Research Infrastructure for Data Integration and Application Network*, a Canadian research infrastructure for underwater acoustic and vessel-tracking data.
+AISViz is an open-source maritime informatics initiative from the [MAPS Lab](https://mapslab.tech/) at [Dalhousie University](https://www.dal.ca/), funded by [Fisheries and Oceans Canada](https://www.dfo-mpo.gc.ca/) through the AISViz project, *Making Vessels Tracking Data and Maps Available to Everyone*. The project builds on previous efforts developed through [MERIDIAN](https://meridian.cs.dal.ca/), the *Marine Environmental Research Infrastructure for Data Integration and Application Network*, a Canadian research infrastructure for ocean data and its applications.
 
 AISViz lowers the technical barrier to using [Automatic Identification System](https://en.wikipedia.org/wiki/Automatic_identification_system) vessel-tracking data by turning raw vessel movement records into accessible maps, queries, analyses, and models. Its tools support historical and real-time vessel traffic workflows, including ingestion, cleaning, storage, indexing, spatiotemporal querying, visualization, trajectory analysis, and vessel behaviour modelling. The initiative serves researchers, students, public agencies, policymakers, NGOs, coastal communities, and other users who work with maritime mobility data for safety, conservation, ocean planning, environmental monitoring, vessel impact assessment, and climate-aware transportation studies.
 
@@ -36,7 +34,7 @@ AISViz lowers the technical barrier to using [Automatic Identification System](h
 
 See the [documentation](https://aisviz.gitbook.io/documentation/) and the [tutorials](https://aisviz.gitbook.io/tutorials/).
 
-### Research tooling
+### Research Tooling
 
 | Project | What it does |
 | --- | --- |
@@ -44,7 +42,7 @@ See the [documentation](https://aisviz.gitbook.io/documentation/) and the [tutor
 
 ## People
 
-MAPS Lab was founded and is led by [Gabriel Spadon](https://github.com/gabrielspadon), Assistant Professor in the Faculty of Computer Science at Dalhousie University ([Google Scholar](https://scholar.google.com/citations?user=bfdGsGUAAAAJ) · [ORCID](https://orcid.org/0000-0001-8437-4349) · [ResearchGate](https://www.researchgate.net/profile/Gabriel-Spadon) · [LinkedIn](https://www.linkedin.com/in/spadon/)). The team brings together postdoctoral fellows and graduate students working across data science, machine learning, signal processing, computer vision, and geoinformatics; the current roster is on the [People page](https://mapslab.tech/people).
+MAPS Lab was founded and is led by [Gabriel Spadon](https://github.com/gabrielspadon), Assistant Professor in the Faculty of Computer Science at Dalhousie University ([Google Scholar](https://scholar.google.com/citations?user=bfdGsGUAAAAJ) · [ORCID](https://orcid.org/0000-0001-8437-4349) · [ResearchGate](https://www.researchgate.net/profile/Gabriel-Spadon) · [LinkedIn](https://www.linkedin.com/in/spadon/)). The team brings together postdoctoral fellows and graduate students working across data science, machine learning, signal processing, computer vision, and geoinformatics; the current roster is on our [website](https://mapslab.tech/people).
 
 ## Affiliation
 
@@ -52,12 +50,12 @@ MAPS Lab is part of the Faculty of Computer Science at Dalhousie University and 
 
 ## Funding
 
-Our work is supported by public research funders and mission-driven programs, including [Fisheries and Oceans Canada](https://www.dfo-mpo.gc.ca/) through the AISViz project, the [Natural Sciences and Engineering Research Council of Canada](https://www.nserc-crsng.gc.ca/) for ocean mobility forecasting, the [Ocean Frontier Institute](https://www.ofi.ca/) for community-centered climate adaptation, and Brazil’s [National Council for Scientific and Technological Development](https://www.gov.br/cnpq/pt-br) for geophysics-informed mobility forecasting. This list highlights active programs and is not exhaustive; funding acknowledgments for individual projects appear in the corresponding repositories and publications.
+Our work is supported by public research funders and mission-driven programs, including [Fisheries and Oceans Canada](https://www.dfo-mpo.gc.ca/) through the AISViz project, the [Natural Sciences and Engineering Research Council of Canada](https://www.nserc-crsng.gc.ca/) for ocean mobility forecasting, the [Ocean Frontier Institute](https://www.ofi.ca/) for community-centered climate adaptation, and Brazil’s [National Council for Scientific and Technological Development](https://www.gov.br/cnpq/pt-br) for geophysics-informed modeling. This list highlights active programs and is not exhaustive; funding acknowledgments for individual projects can be found in the corresponding repositories and publications.
 
 ## Join the lab
 
-We welcome applications from prospective MSc and PhD students through the graduate programs of the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html) at Dalhousie University, and we regularly host international research interns through programs such as [Mitacs](https://www.mitacs.ca/). Prospective postdoctoral fellows are encouraged to get in touch about fellowship opportunities. If your interests align with our research themes, email mapslab@dal.ca with your CV and a short statement of interest.
+We welcome applications from prospective MSc and PhD students through the graduate programs of the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html) at Dalhousie University, and we regularly host international research interns through programs such as [Mitacs](https://www.mitacs.ca/our-programs/globalink-research-award/), [ELAP](https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx), and [SICS](https://www.educanada.ca/scholarships-bourses/can/institutions/study-in-canada-sep-etudes-au-canada-pct.aspx). Prospective postdoctoral fellows are encouraged to get in touch about fellowship opportunities. If your interests align with our research themes, email *mapslab@dal.ca* with your CV and a short statement of interest.
 
 ## Get involved
 
-We welcome questions, suggestions, and contributions from researchers, developers, conservation organizations, and learners. Organization-wide contributing and security guidelines live in the [.github](https://github.com/MAPS-Lab/.github) repository. Reach the team at mapslab@dal.ca or visit [mapslab.tech](https://mapslab.tech/).
+We welcome questions, suggestions, and contributions from researchers, developers, conservation organizations, and learners. Reach the team at mapslab@dal.ca or visit [mapslab.tech](https://mapslab.tech/).
