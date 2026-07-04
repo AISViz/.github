@@ -22,7 +22,7 @@ AISViz lowers the technical barrier to using [Automatic Identification System](h
 | --- | --- |
 | [AISdb](https://github.com/MAPS-Lab/AISdb) | Core platform. A Python package with a Rust decoding engine for storing, querying, cleaning, and visualizing AIS data in SQLite or PostgreSQL. Published on [PyPI](https://pypi.org/project/aisdb/). |
 | [AISdb-lite](https://github.com/MAPS-Lab/AISdb-lite) | Lightweight variant that ingests into TimescaleDB hypertables with PostGIS geometry for large-scale spatio-temporal analysis. |
-| [AISdb-NOAA-Integrator](https://github.com/MAPS-Lab/AISdb-NOAA-Integrator) | Acquires AIS archives from NOAA Marine Cadastre, covering every published format since 2009, and loads them into AISdb-aligned databases. |
+| [NOAA-Integrator](https://github.com/MAPS-Lab/NOAA-Integrator) | Acquires AIS archives from NOAA Marine Cadastre, covering every published format since 2009, and loads them into AISdb-aligned databases. |
 | [AISdb-Tutorials](https://github.com/MAPS-Lab/AISdb-Tutorials) | Hands-on Jupyter notebooks, from database loading through track interpolation to bathymetry. |
 | [AISdb-GitBook](https://github.com/MAPS-Lab/AISdb-GitBook) | Source of the published documentation and tutorials. |
 | [aisviz.github.io](https://github.com/MAPS-Lab/aisviz.github.io) | The AISViz website, deployed to [aisviz.cs.dal.ca](https://aisviz.cs.dal.ca/). |
