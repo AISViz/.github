@@ -4,11 +4,18 @@ Modeling and Analytics for Predictive Systems · Faculty of Computer Science, Da
 
 We develop modelling and analytics methods for predictive systems that operate over complex, heterogeneous, and evolving data. Our research connects big data, data science, network science, machine learning, and geospatial intelligence to understand systems where structure, scale, uncertainty, and time shape prediction. Our work advances data-driven methods for forecasting, monitoring, representation learning, and decision support, with applications in maritime transportation, ocean mobility, climate adaptation, urban intelligence, and other large-scale socio-technical and environmental systems.
 
-This organization hosts the lab’s open-source software, research prototypes, datasets where redistribution is permitted, reproducible experiments, and supporting documentation. The goal is to make our work inspectable, reusable, and extensible, so researchers, students, practitioners, and partners can reproduce results, build on our tools, and contribute to predictive systems research.
+This organization hosts the lab’s open-source software, research prototypes, reproducible experiments, and supporting documentation, with datasets shared whenever licensing and redistribution permit. The goal is to make our work inspectable, reusable, and extensible, so researchers, students, practitioners, and partners can reproduce results, build on our tools, and contribute to predictive systems research.
 
 ## Research themes
 
-Big Data · Data Science · Network Science · Machine Learning
+Our research is organized around four complementary pillars.
+
+- **Big Data.** High-throughput pipelines and storage engines for massive spatiotemporal data streams, with careful attention to ingestion, indexing, querying, and the performance and memory footprint required to operate at scale.
+- **Data Science.** Spatiotemporal analytics, time-series forecasting, trajectory mining, and anomaly detection that turn heterogeneous mobility and environmental data into evidence for monitoring and decision support.
+- **Network Science.** Complex network mining and graph-based modelling of interconnected systems, from shipping routes and port networks to spatial interaction structures, including representation learning over graphs.
+- **Machine Learning.** Predictive and multimodal models for forecasting and behaviour modelling, including approaches that fuse vessel tracking with underwater acoustics and other environmental signals.
+
+These pillars converge on applications in maritime transportation and safety, ocean mobility and marine conservation, climate adaptation, and urban intelligence.
 
 ## Software
 
@@ -27,7 +34,7 @@ AISViz lowers the technical barrier to using [Automatic Identification System](h
 | [AISdb-GitBook](https://github.com/MAPS-Lab/AISdb-GitBook) | Source of the published documentation and tutorials. |
 | [aisviz.github.io](https://github.com/MAPS-Lab/aisviz.github.io) | The AISViz website, deployed to [aisviz.cs.dal.ca](https://aisviz.cs.dal.ca/). |
 
-See the [documentation](https://aisviz.gitbook.io/documentation/), the [tutorials](https://aisviz.gitbook.io/tutorials/), and the [API reference](https://aisviz.cs.dal.ca/AISdb/).
+See the [documentation](https://aisviz.gitbook.io/documentation/) and the [tutorials](https://aisviz.gitbook.io/tutorials/).
 
 ### Research tooling
 
@@ -35,9 +42,21 @@ See the [documentation](https://aisviz.gitbook.io/documentation/), the [tutorial
 | --- | --- |
 | [CiteForge](https://github.com/MAPS-Lab/CiteForge) | Automated bibliographic data collection and enrichment, with multi-source aggregation and trust-based merging. |
 
+## People
+
+MAPS Lab was founded and is led by [Gabriel Spadon](https://github.com/gabrielspadon), Assistant Professor in the Faculty of Computer Science at Dalhousie University ([Google Scholar](https://scholar.google.com/citations?user=bfdGsGUAAAAJ) · [ORCID](https://orcid.org/0000-0001-8437-4349) · [ResearchGate](https://www.researchgate.net/profile/Gabriel-Spadon) · [LinkedIn](https://www.linkedin.com/in/spadon/)). The team brings together postdoctoral fellows and graduate students working across data science, machine learning, signal processing, computer vision, and geoinformatics; the current roster is on the [People page](https://mapslab.tech/people).
+
 ## Affiliation
 
 MAPS Lab is part of the Faculty of Computer Science at Dalhousie University and collaborates with the Maritime Risk and Safety (MARS) research group. Its maritime informatics work traces its roots to [MERIDIAN](https://meridian.cs.dal.ca), where the first generation of these tools was built.
+
+## Funding
+
+Our work is supported by public research funders and mission-driven programs, including [Fisheries and Oceans Canada](https://www.dfo-mpo.gc.ca/) through the AISViz project, the [Natural Sciences and Engineering Research Council of Canada](https://www.nserc-crsng.gc.ca/) for ocean mobility forecasting, the [Ocean Frontier Institute](https://www.ofi.ca/) for community-centered climate adaptation, and Brazil’s [National Council for Scientific and Technological Development](https://www.gov.br/cnpq/pt-br) for geophysics-informed mobility forecasting. This list highlights active programs and is not exhaustive; funding acknowledgments for individual projects appear in the corresponding repositories and publications.
+
+## Join the lab
+
+We welcome applications from prospective MSc and PhD students through the graduate programs of the [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html) at Dalhousie University, and we regularly host international research interns through programs such as [Mitacs](https://www.mitacs.ca/). Prospective postdoctoral fellows are encouraged to get in touch about fellowship opportunities. If your interests align with our research themes, email mapslab@dal.ca with your CV and a short statement of interest.
 
 ## Get involved
 
