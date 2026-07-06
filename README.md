@@ -13,21 +13,6 @@ This special `.github` repository provides the shared organization profile and d
 
 GitHub applies `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, and `SECURITY.md` org-wide as defaults, so any MAPS Lab repository without its own copy inherits the versions kept here. The `profile/README.md` file is special, rendering as the organization profile shown on the MAPS Lab landing page.
 
-## Citation
-
-If you use these community-health files in your work, please cite it. Citation metadata lives in [CITATION.cff](CITATION.cff), and the BibTeX entry follows.
-
-```bibtex
-@software{MAPSLabCommunityHealth2026:GSpadon,
-  author    = {Spadon, Gabriel},
-  title     = {MAPS-Lab community health},
-  year      = {2026},
-  publisher = {MAPS Lab, Dalhousie University},
-  url       = {https://github.com/MAPS-Lab/.github},
-  license   = {AGPL-3.0}
-}
-```
-
 ## License
 
 This project is distributed under the terms of the GNU Affero General Public License v3.0 (AGPL-3.0). See [LICENSE](LICENSE) for details.
